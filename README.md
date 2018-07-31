@@ -1,5 +1,4 @@
 # Ruby-Project1
-Booking a Hotel 
 
 puts
 puts
